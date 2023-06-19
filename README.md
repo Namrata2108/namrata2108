@@ -1,10 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Namrata Ruchandani</h1>
-<h3 align="center">Data Analyst | Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Data Analyst | Software Engineer | Data Engineer</h3>
 
-- 🔭 I’m currently working on [frontend of my user mangement service - a backend project hosted on AWS](https://github.com/orgs/csye6225-cloud-spring22/repositories)
-
-- 🌱 I’m currently learning **AWS Amplify, Big Data and Algorithms**
+- 🔭 I’m currently working with [various AWS resources related to data processing, storage, and analytics](https://github.com/orgs/csye6225-cloud-spring22/repositories)
+- 🌱 I’m currently learning **Big Data and Algorithms**
 
 - 📫 How to reach me **ruchandani.n@northeastern.edu**
 
