@@ -16,12 +16,14 @@
 
 # Projects
 - [User Management System with CI/CD pipelines hosted on AWS cloud](https://github.com/orgs/csye6225-cloud-spring22/repositories)
+- [Healthcare DataHub using Spring Boot, Redis, RabbitMQ, Elasticsearch](https://github.com/Namrata2108/health-data-hub)
 - [E-Commerce Project using Spring boot, Hibernate, Thymeleaf & MySQL](https://github.com/Namrata2108/Bookshop)
 - [Stock Market Prediction using Linear Regression, SARIMA and LSTM models](https://github.com/Namrata2108/Stock_Market_Prediction)
 - [DayCare-Application](https://github.com/JasonPauldj/CSYE6200_FinalProject/tree/master)
 - [Sorting Algorithm Study](https://github.com/Namrata2108/INFO6205_FinalProject)
 - [Translator for English to French or Spanish and vice-versa](https://github.com/Namrata2108/Translator)
 - [Secure Exam Environment](https://github.com/Namrata2108/Secure_exam_environment)
+  
 
 ## Frameworks and Libraries
 - Programming Languages: Java, Python, C, C++, SQL, Javascript
