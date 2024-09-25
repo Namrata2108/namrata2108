@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Namrata Ruchandani</h1>
 <h3 align="center">Data Scientist | Business Intelligence Developer | Data Analyst</h3>
 
-- 🔭 I’m currently working on [advanced business intelligence solutions, leveraging tools like dbt, Snowflake, and Tableau to drive data-driven decision-making]
+- 🔭 I’m currently working on **advanced business intelligence solutions, leveraging tools like dbt, Snowflake, and Tableau to drive data-driven decision-making**
 - 🌱 I’m currently learning more about **predictive modeling, cloud data architectures, and scalable ETL workflows**
 
 - 📫 How to reach me **ruchandani.n@northeastern.edu**
