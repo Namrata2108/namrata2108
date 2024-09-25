@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Namrata Ruchandani</h1>
 <h3 align="center">Data Scientist | Business Intelligence Developer | Data Analyst</h3>
 
