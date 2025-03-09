@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **advanced business intelligence solutions, leveraging tools like dbt, Snowflake, and Tableau to drive data-driven decision-making**
 - 🌱 I’m currently learning more about **predictive modeling, cloud data architectures, and scalable ETL workflows**
 
-- 📫 How to reach me **ruchandani.n@northeastern.edu**
+- 📫 How to reach me **ruchandani.namrata@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
